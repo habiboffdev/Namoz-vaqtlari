@@ -10,7 +10,8 @@ import telebot
 from datetime import timedelta
 from datetime import datetime, tzinfo
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
-
+dtObject_local = datetime.now()
+dtObject_usc = dtObject_local.astimezone(pytz.timezone('Asia/Tashkent'))
 api_token = os.getenv("api_token")
 bot = telebot.TeleBot(api_token)
 def solve(arr):
@@ -26,8 +27,6 @@ def solve(arr):
 	        M = z
 	time_end = str(f'{m[0]}:00')
 	return m[1]
-dtObject_local = datetime.now()
-dtObject_usc = dtObject_local.astimezone(pytz.timezone('Asia/Tashkent'))
 full_name = lambda u: f'{u.first_name} {u.last_name}' if u.last_name else u.first_name
 def api(location):
 	try:
