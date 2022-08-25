@@ -16,11 +16,12 @@ api_token = os.getenv("api_token")
 bot = telebot.TeleBot(api_token)
 def solve(arr):
 	date_format = "%H:%M:%S"
-	now = datetime.now()
+	gmt5 = pytz.timezone('Etc/GMT+5')
+	now = datetime.now().replace(tzinfo=gmt5)
 	m = []
 	M = 100000
 	for i in arr:
-	    t = datetime(year=2022,month=datetime.now().month,day=datetime.now().day,hour=int(i[0].split(":")[0]),minute=int(i[0].split(":")[1]))
+	    t = datetime(year=2022,month=now.month,day=now.day,hour=int(i[0].split(":")[0]),minute=int(i[0].split(":")[1])).replace(tzinfo=gmt5)
 	    z = abs((t-now).total_seconds()/60)
 	    if z<M:
 	        m = i
