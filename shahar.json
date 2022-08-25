@@ -1,0 +1,751 @@
+shahar = [
+{
+    "name": "Toshkent",
+    "link": "toshkent",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Andijon",
+    "link": "andijon",
+    "viloyat":
+    {
+        "id": 12,
+        "name": "Andijon viloyati",
+        "link": "andijon"
+    }
+},
+{
+    "name": "Farg&#039;ona",
+    "link": "fargona",
+    "viloyat":
+    {
+        "id": 3,
+        "name": "Farg&#039;ona viloyati",
+        "link": "fargona"
+    }
+},
+{
+    "name": "Samarqand",
+    "link": "samarqand",
+    "viloyat":
+    {
+        "id": 9,
+        "name": "Samarqand viloyati",
+        "link": "samarqand"
+    }
+},
+{
+    "name": "Qo&#039;qon",
+    "link": "qoqon",
+    "viloyat":
+    {
+        "id": 3,
+        "name": "Farg&#039;ona viloyati",
+        "link": "fargona"
+    }
+},
+{
+    "name": "Gazli",
+    "link": "gazli",
+    "viloyat":
+    {
+        "id": 2,
+        "name": "Buxoro viloyati",
+        "link": "buxoro"
+    }
+},
+{
+    "name": "G&#039;ijduvon",
+    "link": "gijduvon",
+    "viloyat":
+    {
+        "id": 2,
+        "name": "Buxoro viloyati",
+        "link": "buxoro"
+    }
+},
+{
+    "name": "Qorako&#039;l",
+    "link": "qorakol",
+    "viloyat":
+    {
+        "id": 2,
+        "name": "Buxoro viloyati",
+        "link": "buxoro"
+    }
+},
+{
+    "name": "Guliston",
+    "link": "guliston",
+    "viloyat":
+    {
+        "id": 4,
+        "name": "Sirdaryo viloyati",
+        "link": "sirdaryo"
+    }
+},
+{
+    "name": "Sardoba",
+    "link": "sardoba",
+    "viloyat":
+    {
+        "id": 4,
+        "name": "Sirdaryo viloyati",
+        "link": "sirdaryo"
+    }
+},
+{
+    "name": "Jizzax",
+    "link": "jizzax",
+    "viloyat":
+    {
+        "id": 5,
+        "name": "Jizzax viloyati",
+        "link": "jizzax"
+    }
+},
+{
+    "name": "Zomin",
+    "link": "zomin",
+    "viloyat":
+    {
+        "id": 5,
+        "name": "Jizzax viloyati",
+        "link": "jizzax"
+    }
+},
+{
+    "name": "Forish",
+    "link": "forish",
+    "viloyat":
+    {
+        "id": 5,
+        "name": "Jizzax viloyati",
+        "link": "jizzax"
+    }
+},
+{
+    "name": "G&#039;allaorol",
+    "link": "gallaorol",
+    "viloyat":
+    {
+        "id": 5,
+        "name": "Jizzax viloyati",
+        "link": "jizzax"
+    }
+},
+{
+    "name": "Navoiy",
+    "link": "navoiy",
+    "viloyat":
+    {
+        "id": 6,
+        "name": "Navoiy viloyati",
+        "link": "navoiy"
+    }
+},
+{
+    "name": "Zarafshon",
+    "link": "zarafshon",
+    "viloyat":
+    {
+        "id": 6,
+        "name": "Navoiy viloyati",
+        "link": "navoiy"
+    }
+},
+{
+    "name": "Konimex",
+    "link": "konimex",
+    "viloyat":
+    {
+        "id": 6,
+        "name": "Navoiy viloyati",
+        "link": "navoiy"
+    }
+},
+{
+    "name": "Nurota",
+    "link": "nurota",
+    "viloyat":
+    {
+        "id": 6,
+        "name": "Navoiy viloyati",
+        "link": "navoiy"
+    }
+},
+{
+    "name": "Uchquduq",
+    "link": "uchquduq",
+    "viloyat":
+    {
+        "id": 6,
+        "name": "Navoiy viloyati",
+        "link": "navoiy"
+    }
+},
+{
+    "name": "Nukus",
+    "link": "nukus",
+    "viloyat":
+    {
+        "id": 8,
+        "name": "Qoraqalpog&#039;iston Respublikasi",
+        "link": "qoraqalpogistonrespublikasi"
+    }
+},
+{
+    "name": "Mo&#039;ynoq",
+    "link": "moynoq",
+    "viloyat":
+    {
+        "id": 8,
+        "name": "Qoraqalpog&#039;iston Respublikasi",
+        "link": "qoraqalpogistonrespublikasi"
+    }
+},
+{
+    "name": "Taxtako&#039;pir",
+    "link": "taxtakopir",
+    "viloyat":
+    {
+        "id": 8,
+        "name": "Qoraqalpog&#039;iston Respublikasi",
+        "link": "qoraqalpogistonrespublikasi"
+    }
+},
+{
+    "name": "To&#039;rtko&#039;l",
+    "link": "tortkol",
+    "viloyat":
+    {
+        "id": 8,
+        "name": "Qoraqalpog&#039;iston Respublikasi",
+        "link": "qoraqalpogistonrespublikasi"
+    }
+},
+{
+    "name": "Qo&#039;ng&#039;irot",
+    "link": "qongirot",
+    "viloyat":
+    {
+        "id": 8,
+        "name": "Qoraqalpog&#039;iston Respublikasi",
+        "link": "qoraqalpogistonrespublikasi"
+    }
+},
+{
+    "name": "Marg&#039;ilon",
+    "link": "margilon",
+    "viloyat":
+    {
+        "id": 3,
+        "name": "Farg&#039;ona viloyati",
+        "link": "fargona"
+    }
+},
+{
+    "name": "Ishtixon",
+    "link": "ishtixon",
+    "viloyat":
+    {
+        "id": 9,
+        "name": "Samarqand viloyati",
+        "link": "samarqand"
+    }
+},
+{
+    "name": "Mirbozor",
+    "link": "mirbozor",
+    "viloyat":
+    {
+        "id": 9,
+        "name": "Samarqand viloyati",
+        "link": "samarqand"
+    }
+},
+{
+    "name": "Kattaqo&#039;rg&#039;on",
+    "link": "kattaqorgon",
+    "viloyat":
+    {
+        "id": 9,
+        "name": "Samarqand viloyati",
+        "link": "samarqand"
+    }
+},
+{
+    "name": "Urgut",
+    "link": "urgut",
+    "viloyat":
+    {
+        "id": 9,
+        "name": "Samarqand viloyati",
+        "link": "samarqand"
+    }
+},
+{
+    "name": "Termiz",
+    "link": "termiz",
+    "viloyat":
+    {
+        "id": 10,
+        "name": "Surxondaryo viloyati",
+        "link": "surxondaryo"
+    }
+},
+{
+    "name": "Boysun",
+    "link": "boysun",
+    "viloyat":
+    {
+        "id": 10,
+        "name": "Surxondaryo viloyati",
+        "link": "surxondaryo"
+    }
+},
+{
+    "name": "Denov",
+    "link": "denov",
+    "viloyat":
+    {
+        "id": 10,
+        "name": "Surxondaryo viloyati",
+        "link": "surxondaryo"
+    }
+},
+{
+    "name": "Sherobod",
+    "link": "sherobod",
+    "viloyat":
+    {
+        "id": 10,
+        "name": "Surxondaryo viloyati",
+        "link": "surxondaryo"
+    }
+},
+{
+    "name": "Sho&#039;rchi",
+    "link": "shorchi",
+    "viloyat":
+    {
+        "id": 10,
+        "name": "Surxondaryo viloyati",
+        "link": "surxondaryo"
+    }
+},
+{
+    "name": "Qarshi",
+    "link": "qarshi",
+    "viloyat":
+    {
+        "id": 11,
+        "name": "Qashqadaryo viloyati",
+        "link": "qashqadaryo"
+    }
+},
+{
+    "name": "Dehqonobod",
+    "link": "dehqonobod",
+    "viloyat":
+    {
+        "id": 11,
+        "name": "Qashqadaryo viloyati",
+        "link": "qashqadaryo"
+    }
+},
+{
+    "name": "Muborak",
+    "link": "muborak",
+    "viloyat":
+    {
+        "id": 11,
+        "name": "Qashqadaryo viloyati",
+        "link": "qashqadaryo"
+    }
+},
+{
+    "name": "Shahrisabz",
+    "link": "shahrisabz",
+    "viloyat":
+    {
+        "id": 11,
+        "name": "Qashqadaryo viloyati",
+        "link": "qashqadaryo"
+    }
+},
+{
+    "name": "G&#039;uzor",
+    "link": "guzor",
+    "viloyat":
+    {
+        "id": 11,
+        "name": "Qashqadaryo viloyati",
+        "link": "qashqadaryo"
+    }
+},
+{
+    "name": "Angren",
+    "link": "angren",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Piskent",
+    "link": "piskent",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Bekobod",
+    "link": "bekobod",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Buxoro",
+    "link": "buxoro",
+    "viloyat":
+    {
+        "id": 2,
+        "name": "Buxoro viloyati",
+        "link": "buxoro"
+    }
+},
+{
+    "name": "Xonobod",
+    "link": "xonobod",
+    "viloyat":
+    {
+        "id": 12,
+        "name": "Andijon viloyati",
+        "link": "andijon"
+    }
+},
+{
+    "name": "Shahrixon",
+    "link": "shahrixon",
+    "viloyat":
+    {
+        "id": 12,
+        "name": "Andijon viloyati",
+        "link": "andijon"
+    }
+},
+{
+    "name": "Xo&#039;jaobod",
+    "link": "xojaobod",
+    "viloyat":
+    {
+        "id": 12,
+        "name": "Andijon viloyati",
+        "link": "andijon"
+    }
+},
+{
+    "name": "Namangan",
+    "link": "namangan",
+    "viloyat":
+    {
+        "id": 7,
+        "name": "Namangan viloyati",
+        "link": "namangan"
+    }
+},
+{
+    "name": "Chortoq",
+    "link": "chortoq",
+    "viloyat":
+    {
+        "id": 7,
+        "name": "Namangan viloyati",
+        "link": "namangan"
+    }
+},
+{
+    "name": "Chust",
+    "link": "chust",
+    "viloyat":
+    {
+        "id": 7,
+        "name": "Namangan viloyati",
+        "link": "namangan"
+    }
+},
+{
+    "name": "Quva",
+    "link": "quva",
+    "viloyat":
+    {
+        "id": 3,
+        "name": "Farg&#039;ona viloyati",
+        "link": "fargona"
+    }
+},
+{
+    "name": "Rishton",
+    "link": "rishton",
+    "viloyat":
+    {
+        "id": 3,
+        "name": "Farg&#039;ona viloyati",
+        "link": "fargona"
+    }
+},
+{
+    "name": "Parkent",
+    "link": "parkent",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Ga&#039;zalkent",
+    "link": "gazalkent",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Sirdaryo",
+    "link": "sirdaryo",
+    "viloyat":
+    {
+        "id": 4,
+        "name": "Sirdaryo viloyati",
+        "link": "sirdaryo"
+    }
+},
+{
+    "name": "Boyovut",
+    "link": "boyovut",
+    "viloyat":
+    {
+        "id": 4,
+        "name": "Sirdaryo viloyati",
+        "link": "sirdaryo"
+    }
+},
+{
+    "name": "Paxtaobod",
+    "link": "paxtaobod",
+    "viloyat":
+    {
+        "id": 4,
+        "name": "Sirdaryo viloyati",
+        "link": "sirdaryo"
+    }
+},
+{
+    "name": "Jondor",
+    "link": "jondor",
+    "viloyat":
+    {
+        "id": 2,
+        "name": "Buxoro viloyati",
+        "link": "buxoro"
+    }
+},
+{
+    "name": "Do&#039;stlik",
+    "link": "dostlik",
+    "viloyat":
+    {
+        "id": 5,
+        "name": "Jizzax viloyati",
+        "link": "jizzax"
+    }
+},
+{
+    "name": "Pop",
+    "link": "pop1",
+    "viloyat":
+    {
+        "id": 7,
+        "name": "Namangan viloyati",
+        "link": "namangan"
+    }
+},
+{
+    "name": "Uchqo&#039;rg&#039;on",
+    "link": "uchqorgon",
+    "viloyat":
+    {
+        "id": 7,
+        "name": "Namangan viloyati",
+        "link": "namangan"
+    }
+},
+{
+    "name": "Bog&#039;dod",
+    "link": "bogdod",
+    "viloyat":
+    {
+        "id": 3,
+        "name": "Farg&#039;ona viloyati",
+        "link": "fargona"
+    }
+},
+{
+    "name": "Oltiariq",
+    "link": "oltiariq",
+    "viloyat":
+    {
+        "id": 3,
+        "name": "Farg&#039;ona viloyati",
+        "link": "fargona"
+    }
+},
+{
+    "name": "Asaka",
+    "link": "asaka",
+    "viloyat":
+    {
+        "id": 12,
+        "name": "Andijon viloyati",
+        "link": "andijon"
+    }
+},
+{
+    "name": "Marhamat",
+    "link": "marhamat",
+    "viloyat":
+    {
+        "id": 12,
+        "name": "Andijon viloyati",
+        "link": "andijon"
+    }
+},
+{
+    "name": "Poytug&#039;",
+    "link": "paytug",
+    "viloyat":
+    {
+        "id": 12,
+        "name": "Andijon viloyati",
+        "link": "andijon"
+    }
+},
+{
+    "name": "Olmaliq",
+    "link": "olmaliq",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Bo&#039;ka",
+    "link": "boka",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Yangiyo&#039;l",
+    "link": "yangiyol",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Nurafshon",
+    "link": "nurafshon",
+    "viloyat":
+    {
+        "id": 1,
+        "name": "Toshkent viloyati",
+        "link": "toshkent"
+    }
+},
+{
+    "name": "Urganch",
+    "link": "urganch",
+    "viloyat":
+    {
+        "id": 13,
+        "name": "Xorazm viloyati",
+        "link": "xorazm"
+    }
+},
+{
+    "name": "Hazorasp",
+    "link": "hazorasp",
+    "viloyat":
+    {
+        "id": 13,
+        "name": "Xorazm viloyati",
+        "link": "xorazm"
+    }
+},
+{
+    "name": "Xonqa",
+    "link": "xonqa",
+    "viloyat":
+    {
+        "id": 13,
+        "name": "Xorazm viloyati",
+        "link": "xorazm"
+    }
+},
+{
+    "name": "Yangibozor",
+    "link": "yangibozor",
+    "viloyat":
+    {
+        "id": 13,
+        "name": "Xorazm viloyati",
+        "link": "xorazm"
+    }
+},
+{
+    "name": "Shovot",
+    "link": "shovot",
+    "viloyat":
+    {
+        "id": 13,
+        "name": "Xorazm viloyati",
+        "link": "xorazm"
+    }
+},
+{
+    "name": "Xiva",
+    "link": "xiva",
+    "viloyat":
+    {
+        "id": 13,
+        "name": "Xorazm viloyati",
+        "link": "xorazm"
+    }
+}]
